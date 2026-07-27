@@ -7,6 +7,15 @@
 >
 > 🔄 **Mudança de escopo nesta v4: a QUITAFLEX passa a ser MULTI-CREDOR.** Além das dívidas do próprio Sicredi, a plataforma agrega e negocia dívidas do associado em **outras instituições** (bancos, financeiras, varejo). O Sicredi atua como o canal que ajuda seu associado a recuperar a autonomia financeira **completa** — não só a dívida interna. Os pontos afetados pela mudança estão marcados com 🔄.
 
+# Participantes 
+
+**370265 - Raione Weslley B. Nascimento**.
+**373762 - Gustavo Lima de Oliveira Carvalho**
+**371826 - Igor Borges da Silva**
+**370757 - Nicole Calgaroto**
+**371368 - Paulo Roberto da Silva**
+**372951 - Matheus Sanches Garcia**
+**373249- Ítalo Almeida**
 ---
 
 # PARTE I — Design Estratégico (DDD)
@@ -437,5 +446,26 @@ classDiagram
 - [x] **Eventos de domínio** com payload mínimo, pós-commit e distinção Interno/Integração.
 
 ---
+
+## Event Storming
+
+<img width="1651" height="412" alt="Screenshot from 2026-07-27 20-34-15" src="https://github.com/user-attachments/assets/c3f26c06-f5af-4a9a-b13d-06ab30ec14d8" />
+
+**Contextos**
+
+**Negociação e Acordo** 
+<img width="2126" height="726" alt="Screenshot from 2026-07-27 20-38-33" src="https://github.com/user-attachments/assets/de7faaf4-8577-47a4-be7a-ff57d6f134a1" />
+
+<img width="2262" height="412" alt="Screenshot from 2026-07-27 20-41-54" src="https://github.com/user-attachments/assets/dc014afd-d68a-46f9-9a88-8f967da1f353" />
+
+--
+**Pagamentos**
+<img width="2079" height="690" alt="Screenshot from 2026-07-27 20-44-38" src="https://github.com/user-attachments/assets/81b7f360-51af-446f-a202-1d7c39f16924" />
+
+--
+<img width="2210" height="399" alt="Screenshot from 2026-07-27 20-43-13" src="https://github.com/user-attachments/assets/49cc2a51-fe79-4009-ac7c-ee571a5190ba" />
+
+
+
 
 **📢 Entrega Final — QUITAFLEX | Design Estratégico + Tático DDD (multi-credor) 🚀**
