@@ -9,13 +9,14 @@
 
 # Participantes 
 
-**370265 - Raione Weslley B. Nascimento**.
-**373762 - Gustavo Lima de Oliveira Carvalho**
-**371826 - Igor Borges da Silva**
-**370757 - Nicole Calgaroto**
-**371368 - Paulo Roberto da Silva**
-**372951 - Matheus Sanches Garcia**
-**373249- Ítalo Almeida**
+370265 - Raione Weslley B. Nascimento<br>
+373762 - Gustavo Lima de Oliveira Carvalho<br>
+371826 - Igor Borges da Silva<br>
+370757 - Nicole Calgaroto<br>
+371368 - Paulo Roberto da Silva<br>
+372951 - Matheus Sanches Garcia<br>
+373249- Ítalo Almeida<br>
+
 ---
 
 # PARTE I — Design Estratégico (DDD)
